@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <!-- Stylized Monogram A -->
+  <g transform="translate(10, 8)">
+    <path d="M22 2 L42 42 L34 42 L22 17 L10 42 L2 42 Z" fill="#d4a23d" />
+    <path d="M14 28 L30 28 L22 12 Z" fill="#06090f" />
+    <polygon points="22,23 16,35 28,35" fill="#f0cb79" />
+  </g>
+  <!-- Wordmark -->
+  <text x="62" y="32" font-family="'Cinzel', Georgia, serif" font-size="22" font-weight="700" letter-spacing="3" fill="#f4eedf">ANSES</text>
+  <text x="64" y="44" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="8.5" font-weight="600" letter-spacing="4.5" fill="#d4a23d">STUDIOS</text>
+</svg>
